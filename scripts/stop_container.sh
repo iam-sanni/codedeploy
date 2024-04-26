@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir f2
+mkdir sanni
