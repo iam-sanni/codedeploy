@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir raj
+mkdir L1
