@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir sanni
+mkdir L2
