@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir L2
+ls
